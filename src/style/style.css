@@ -37,8 +37,8 @@
     padding: 21.504px 0;
     color: var(--cor--quaternaria);
     font-family: var(--fonte-secundaria), sans-serif;
- background-color: #272727;
- border-radius: 30px;
+    background-color: #272727;
+    border-radius: 30px;
 }
 
 .botoes__subtitulo {
