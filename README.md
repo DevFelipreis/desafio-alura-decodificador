@@ -1,7 +1,11 @@
 # Decodificador de Texto
 
 Este é um projeto simples de um site onde os usuários podem criptografar e descriptografar texto.
-[Acessar o site](https://devfelipreis.github.io/desafio-alura-decodificador/)
+
+- [Acessar o site - link principal](https://devfelipreis.github.io/desafio-alura-decodificador/)
+- [Acessar o site - 2ª opção](https://desafio-alura-decodificador.vercel.app/)
+
+
 
 
 ## Funcionalidades
